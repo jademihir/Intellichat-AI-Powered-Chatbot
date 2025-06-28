@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+langchain
+google-api-python-client
+PyPDF2
+python-docx
+pandas
+transformers
+torch
