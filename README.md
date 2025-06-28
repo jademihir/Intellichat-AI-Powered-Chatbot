@@ -42,30 +42,10 @@ An intelligent chatbot application that enables natural language conversations w
 - **Local SLM** - Self-hosted small language model
 - **Translation API** - Hindi language translation
 
-## 📁 Project Structure\
-intellichat/
-│
-├── app.py                 # Main Streamlit application
-├── requirements.txt       # Python dependencies
-├── test.txt              # Sample test file
-│
-├── utils/                # Utility modules
-│   ├── init.py
-│   ├── file_reader.py    # File processing utilities
-│   ├── gemini_utils.py   # Google Gemini integration
-│   ├── slm_utils.py      # Local model utilities
-│   ├── summarizer.py     # Text summarization
-│   └── translator.py     # Hindi translation
-│
-├── config/               # Configuration files
-│   ├── api_keys.py       # API key management
-│   └── model_config.py   # Model configurations
-│
-├── data/                 # Sample data files
-│   ├── sample.pdf
-│   ├── sample.docx
-│   └── sample.csv
-│
-└── docs/                 # Documentation
-├── user_guide.md
-└── api_reference.md
+## 🚀 Quick Start
+
+### Prerequisites
+
+```bash
+Python 3.8 or higher
+Google API Key for Gemini
